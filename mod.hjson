@@ -1,0 +1,7 @@
+name: "ultimate-wantech-mod"
+displayName: "WantechFan's Secret Mod"
+author: "WantechFan"
+description: "Congrats if you somehow found this"
+minGameVersion: "155.2"
+hidden: true
+subtitle: "No way you found this"
